@@ -1,22 +1,22 @@
 {
-  "name": "sdds",
-  "description": "hgfc",
+  "name": "随便",
+  "description": "随便",
   "keywords": [
-    "njhg"
+    "随便"
   ],
   "env": {
     "PROTOCOL": {
-      "description": "vless",
+      "description": "协议VMess或VLESS，请填小写的vmess或vless",
       "value": "vmess",
       "required": true
     },
     "UUID": {
-      "description": "58adafc6-6ab1-4cf4-bfc7-42c7ffa7e06e",
+      "description": "用户的主ID",
       "value": "",
       "required": false
     },
     "WS_PATH": {
-      "description": "https://github.com/wulabing/3DCEList/archive/master.zip",
+      "description": "websocket路径",
       "value": "/ray",
       "required": true
     }
