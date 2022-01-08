@@ -1,0 +1,30 @@
+{
+  "name": "sdds",
+  "description": "hgfc",
+  "keywords": [
+    "njhg"
+  ],
+  "env": {
+    "PROTOCOL": {
+      "description": "vless",
+      "value": "vmess",
+      "required": true
+    },
+    "UUID": {
+      "description": "58adafc6-6ab1-4cf4-bfc7-42c7ffa7e06e",
+      "value": "",
+      "required": false
+    },
+    "WS_PATH": {
+      "description": "https://github.com/wulabing/3DCEList/archive/master.zip",
+      "value": "/ray",
+      "required": true
+    }
+  },
+  "website": "https://github.com/geithome365/vlessprojrct",
+  "repository": "https://github.com/geithome365/vlessprojrct",
+  "stack": "container",
+  "features": [
+    "runtime-dyno-metadata"
+  ]
+}
